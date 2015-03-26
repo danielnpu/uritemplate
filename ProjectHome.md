@@ -1,0 +1,1 @@
+Support for URI templates of all kinds. (At this stage in particular the current IETF draft.)
